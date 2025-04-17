@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013668411253",
+    "project_id": "neww-a26d3",
+    "storage_bucket": "neww-a26d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013668411253:android:2d4027119e9ce745f1453c",
+        "android_client_info": {
+          "package_name": "com.example.student_manage_datacollection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSW00rmHUDeZfDOnVpSvZyDQyyp5sRBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
